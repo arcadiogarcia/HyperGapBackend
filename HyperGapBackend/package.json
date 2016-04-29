@@ -1,0 +1,10 @@
+{
+  "name": "hyper-gap-backend",
+  "version": "0.0.0",
+  "description": "HyperGapBackend",
+  "main": "server.js",
+  "author": {
+    "name": "49pym",
+    "email": ""
+  }
+}
