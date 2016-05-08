@@ -1,10 +1,17 @@
 {
   "name": "hyper-gap-backend",
   "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
   "description": "HyperGapBackend",
-  "main": "server.js",
   "author": {
-    "name": "49pym",
-    "email": ""
+    "name": "Arcadio",
+    "email": "garciaarcadio@gmail.com"
+  },
+  "dependencies": {
+    "express": "~4.9.0",
+    "azure-storage": "~0.10.0"
   }
 }
